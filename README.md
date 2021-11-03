@@ -1,4 +1,8 @@
 # Ai-Air-Canvas
 
-https://user-images.githubusercontent.com/84379934/140057636-dff7e883-2add-487b-af0e-5fdf3498e225.mp4
+
+
+
+Here is a demo of the project
+https://user-images.githubusercontent.com/84379934/140067960-d9accb52-d995-4c25-b56d-680c55b9847c.mp4
 
